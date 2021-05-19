@@ -1,0 +1,29 @@
+{
+  "name": "eCommerceBackend",
+  "version": "1.0.0",
+  "description": "an app to compete with other businesses and sell online",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "watch": "nodemon server.js",
+    "seed": "node seeds/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fortega328/eCommerceBackend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fortega328/eCommerceBackend/issues"
+  },
+  "homepage": "https://github.com/fortega328/eCommerceBackend#readme",
+  "dependencies": {
+    "dotenv": "^9.0.2",
+    "express": "^4.17.1",
+    "mysql2": "^2.2.5",
+    "sequelize": "^6.6.2"
+  }
+}
