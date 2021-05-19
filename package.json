@@ -1,5 +1,5 @@
 {
-  "name": "eCommerceBackend",
+  "name": "e-commerce-backend",
   "version": "1.0.0",
   "description": "an app to compete with other businesses and sell online",
   "main": "server.js",
@@ -24,6 +24,7 @@
     "dotenv": "^9.0.2",
     "express": "^4.17.1",
     "mysql2": "^2.2.5",
+    "nodemon": "^2.0.7",
     "sequelize": "^6.6.2"
   }
 }
