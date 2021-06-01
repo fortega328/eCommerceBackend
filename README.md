@@ -34,6 +34,6 @@ fortega328
 ### MIT
 
 ## Questions
-For comments and questions forteg328@gmail.com.
+For comments and questions fortega328@gmail.com.
 
 Github: https://github.com/fortega328/eCommerceBackend
