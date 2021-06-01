@@ -17,8 +17,9 @@ This application allows users to compete in ecommerce world.
 A webapp for managing the back end of an ecommerce site.
 ## Deployed App
 (insert heroku)
+[Video](https://youtu.be/_p8Sv7wtxLA)
 
-![Home page for tech_blog](public/images/insertImageHere)
+![Home page for tech_blog](public/images/ecommerce.png)
 
 ## Technologies 
 * JSON
